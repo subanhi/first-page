@@ -1,0 +1,11 @@
+h1{text-align:center;
+}
+div {
+border: 1px;
+outline-style:outset;
+outline-color:black;
+outline-width:thin;
+background-color:lightblue;
+height:600px;
+width:600px;
+}

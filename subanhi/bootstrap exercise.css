@@ -1,0 +1,155 @@
+/* Exercises -01 Starts */
+.dropdown {
+  margin-left: 60px;
+  margin-top: 20px;
+}
+
+.dropdown-menu {
+background-color:  	#FF69B4;
+border-color: #C10013;
+
+}
+.dropdown-divider {
+  border-color: #C10013;
+  border-top-width: medium;
+}
+/* Exercises -01 Ends */
+
+
+/* Exercises -02 Starts */
+.col-sm-9 {
+   background-color:#d8ddd8;
+   height:300px;
+}
+
+.Exercises-02- {
+  background-color:#3ec7ec;
+  height:50px;
+  margin-left:10px;
+  margin-top: 10px
+}
+
+.Exercises-02-:hover {
+  background-color: #040606;
+}
+
+.nav-link {
+  padding-bottom: 15px;
+}
+
+.Exercises-02-01 {
+   height:45px;
+   margin-bottom: 10px
+}
+
+.dropA {
+  background-color:#34B9E9;
+}
+
+.dropdown-item {
+  font-weight: bolder;
+  font-size: 15px;
+}
+.dropdown-item:hover {
+    background-color: #58C6EE;
+}
+/* Exercises -02 Ends */
+
+/* Exercises -03 Starts */
+.search {
+   background-color:#dcf95e;
+   margin:20px;
+   margin-left: 50px;
+}
+.search-container {
+   margin:50px;
+   margin-left: 150px;
+}
+/* Exercises -03 Ends */
+
+/* Exercises -04 Starts */
+.col-sm-6 {
+   background-color:#45d64d;
+   height: 300px;
+   margin: 20px;
+}
+
+.Exercises-04- {
+  background-color: #32804E;
+  height: 50px;
+  margin: 50px;
+}
+.col-drop:hover{
+  background: #9262B7;
+  text-align: center;
+}
+
+.Dropdownweb{
+  background-color: #9262B7;
+  border-color: #9262B7;
+  margin-top: 10px;
+  width:250px;
+}
+
+.Dropdownwebs:hover{
+  background-color: #A97BCD;
+}
+/* Exercises -04 Ends */
+
+/* Exercises -05 Starts */
+.col-sm-11 {
+   margin: 20px;
+}
+/* Exercises -05 Ends */
+
+/* Exercises -06 Starts */
+.Exercises-06- {
+  background-color: #c9e6da;
+  width:420px;
+  height: 370px;
+}
+.tableend{
+  margin: 10px;
+}
+/* h1,h2*/
+.table-rounded {
+
+  border-radius: 0.7em;
+  overflow: hidden;
+  width:400px;
+}
+
+.Ta {
+  padding: 1em;
+  background: #7bc312;
+  border-bottom: 1px solid white;
+}
+/*h1,h2*/
+/*data1,2*/
+.tda {
+  background-color: #d9d426;
+  width:200px;
+}
+.tdb {
+  background-color: #ffffff;
+  width:200px;
+}
+/*data1,2*/
+/* Exercises -06 Ends */
+
+
+/* Exercises -07 Starts */
+.last{
+  width: 500px;
+  height: 200px;
+  margin: 100px;
+  margin-left: 250px;
+}
+.head {
+  background-color:#d62727;
+  height: 30px;
+  font-size: 50px;
+.bodya {
+  background-color: #EEEEEE;
+}
+/* Exercises -07 Ends */

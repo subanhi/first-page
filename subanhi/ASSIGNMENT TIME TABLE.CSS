@@ -1,0 +1,80 @@
+
+table,td, th {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  font-size: 14px;
+  font-family: sans-serif, arial;
+}
+
+
+tr.a {
+  background-color:#86B9C6;
+}
+
+tr.b td.a {
+  background-color:#86B9C6;
+}
+
+tr.b td.b {
+  background-color:#0AF5E5;
+}
+
+tr.b td.c {
+  background-color:#E6B2D8;
+}
+tr.c td.a {
+  background-color:#86B9C6;
+}
+
+tr.c td.b {
+background-color:#EB0DE3;
+}
+
+tr.d td.a {;
+  background-color:#86B9C6;
+}
+
+tr.d td.b {
+  background-color:#8A09CA;
+}
+
+tr.e td.a {
+  background-color:#86B9C6;
+}
+
+tr.e td.b {
+  background-color:#BC759F;
+}
+
+tr.f td.a {
+  background-color:#86B9C6;
+}
+
+tr.f td.b {
+  text-align:center;
+  background-color:#F57F0A;
+}
+
+tr.g td.a {
+  background-color:#86B9C6;
+}
+
+tr.g td.b {
+  background-color:#8A09CA;
+}
+
+tr.g td.c {
+  background-color:#64B264;
+}
+
+tr.h td.a {
+  background-color:#86B9C6;
+}
+
+tr.h td.b {
+  background-color:#A95912;
+}
+
+tr.h td.c {
+  background-color:#F50E72;
+}

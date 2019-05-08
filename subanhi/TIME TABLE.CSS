@@ -1,0 +1,35 @@
+le, td, th{
+  border: 1px solid black;
+  border-collapse: collapse;
+
+}
+
+tr.a{
+  background-color:   #24a7e3;
+  height: 50px;
+
+}
+tr.b td.b{
+  background-color: #6666ff;
+}
+tr.b td.c{
+  background-color:#33bbff;
+}
+tr.b td.d{
+  background-color: #1e76f7
+;
+}
+tr.b td.e{
+  background-color:#f4a01c;
+}
+tr.b td.f{
+  background-color:#1cf42c;
+}
+tr.b td.g{
+  background-color:#f71e62;
+}
+tr.b td.h{
+  background-color: #f4361c;}
+
+  tr.b td.i{
+    background-color: #f3f41c ;
